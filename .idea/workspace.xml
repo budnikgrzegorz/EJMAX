@@ -133,7 +133,28 @@
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ejmax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejmax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ejmax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejmax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ejmax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejmax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
